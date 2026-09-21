@@ -1,0 +1,20 @@
+{
+  "passed": 14,
+  "checks": [
+    "Dashboard, existing data and desktop layout",
+    "Global search, keyboard shortcut, focus containment and navigation",
+    "Dashboard urgency filter opens the matching deadline list",
+    "All project tabs and management pages render without runtime errors",
+    "Create project with its full role set atomically",
+    "Create a plan and start a workflow",
+    "Complete a workflow step and preserve it after reload",
+    "CSV import creates separate runs even for repeated plan codes",
+    "Excel export creates a readable workbook",
+    "Workflow duplication preserves valid links across reload",
+    "Backup validation, preview and confirmed restoration",
+    "Mobile navigation, layout and dialog at 390px",
+    "Conflicting browser tab changes are visible",
+    "Corrupt data opens recovery without overwriting the raw data"
+  ],
+  "unexpectedErrors": []
+}
